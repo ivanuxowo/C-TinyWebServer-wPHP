@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>pagina con php</title>
+</head>
+<body>
+
+<h1><?php echo "Hola soy el php" ?></h1>
+
+</body>
+</html>

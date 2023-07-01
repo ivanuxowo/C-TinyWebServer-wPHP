@@ -1,0 +1,1087 @@
+ INFO: nweb starting:40000:6509
+ INFO: request:GET / HTTP/1.1**Host: localhost:40000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 87
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:40000**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:40000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: nweb starting:39000:6704
+ INFO: request:GET / HTTP/1.1**Host: localhost:39000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 134
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:39000**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:39000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: localhost:39000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 131
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:39000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:39000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: request:GET / HTTP/1.1**Host: localhost:39000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: SEND:archivephp.html:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 131
+Connection: close
+Content-Type: text/html
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:39000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:39000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: nweb starting:11000:6883
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 131
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 131
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: SEND:archivephp.html:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 131
+Connection: close
+Content-Type: text/html
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modificar :0:7
+ INFO: SEND:archivephp.html:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:7
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modificar :0:8
+ INFO: SEND:favicon.ico:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modificar :0:9
+ INFO: SEND:archivephp.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modificar :0:10
+ INFO: SEND:favicon.ico:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:10
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:11
+ INFO: Modificar :0:11
+ INFO: SEND:archivephp.html:11
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:11
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:12
+ INFO: Modificar :0:12
+ INFO: SEND:favicon.ico:12
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:12
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:13
+ INFO: Modificar :0:13
+ INFO: SEND:archivephp.html:13
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:13
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:14
+ INFO: Modificar :0:14
+ INFO: SEND:favicon.ico:14
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:14
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:15
+ INFO: Modificar :0:15
+ INFO: SEND:archivephp.html:15
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:15
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:16
+ INFO: Modificar :0:16
+ INFO: SEND:favicon.ico:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:16
+ INFO: request:GET / HTTP/1.1**Host: localhost:11000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:17
+ INFO: Modificar :0:17
+ INFO: SEND:archivephp.html:17
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 124
+Connection: close
+Content-Type: text/html
+
+:17
+ INFO: nweb starting:11100:6983
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 239
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: localhost:11100**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:nigel.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: SEND:favicon.ico:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:3
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: SEND:favicon.ico:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:5
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modificar :0:7
+ INFO: SEND:favicon.ico:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:7
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modificar :0:8
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modificar :0:9
+ INFO: SEND:favicon.ico:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:9
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modificar :0:10
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:11
+ INFO: Modificar :0:11
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:12
+ INFO: Modificar :0:12
+ INFO: SEND:favicon.ico:12
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:12
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:13
+ INFO: Modificar :0:13
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:14
+ INFO: Modificar :0:14
+ INFO: SEND:favicon.ico:14
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:14
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:15
+ INFO: Modificar :0:15
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:16
+ INFO: Modificar :0:16
+ INFO: SEND:favicon.ico:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:16
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:17
+ INFO: Modificar :0:17
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:18
+ INFO: Modificar :0:18
+ INFO: SEND:favicon.ico:18
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:18
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:19
+ INFO: Modificar :0:19
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:20
+ INFO: Modificar :0:20
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:21
+ INFO: Modificar :0:21
+NOT FOUND: failed to open file:index.html
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:11100/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:22
+ INFO: Modificar :0:22
+ INFO: SEND:favicon.ico:22
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:22
+ INFO: request:GET / HTTP/1.1**Host: localhost:11100**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:23
+ INFO: Modificar :0:23
+NOT FOUND: failed to open file:index.html
+ INFO: nweb starting:44400:7407
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: Modificando :...:1
+ INFO: Modificado:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: Modificando :...:3
+ INFO: Modificado:archivephp.php:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: Modificando :...:5
+ INFO: Modificado:archivephp.php:5
+ INFO: SEND:archivephp.html:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modificar :0:7
+ INFO: Modificando :...:7
+ INFO: Modificado:archivephp.php:7
+ INFO: SEND:archivephp.html:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:7
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modificar :0:8
+ INFO: SEND:favicon.ico:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modificar :0:9
+ INFO: Modificando :...:9
+ INFO: Modificado:archivephp.php:9
+ INFO: SEND:archivephp.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modificar :0:10
+ INFO: SEND:favicon.ico:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:10
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:11
+ INFO: Modificar :0:11
+ INFO: Modificando :...:11
+ INFO: Modificado:archivephp.php:11
+ INFO: SEND:archivephp.html:11
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:11
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:12
+ INFO: Modificar :0:12
+ INFO: Modificando :...:12
+ INFO: Modificado:archivephp.php:12
+ INFO: SEND:archivephp.html:12
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:12
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:13
+ INFO: Modificar :0:13
+ INFO: Modificando :...:13
+ INFO: Modificado:archivephp.php:13
+ INFO: SEND:archivephp.html:13
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:13
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:14
+ INFO: Modificar :0:14
+ INFO: SEND:favicon.ico:14
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:14
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:15
+ INFO: Modificar :0:15
+ INFO: Modificando :...:15
+ INFO: Modificado:archivephp.php:15
+ INFO: SEND:archivephp.html:15
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:15
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:16
+ INFO: Modificar :0:16
+ INFO: SEND:favicon.ico:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:16
+ INFO: nweb starting:44400:7804
+ INFO: request:GET / HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: Modificando :...:1
+ INFO: Modificado:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44400**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44400/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: nweb starting:44444:8046
+ INFO: request:GET / HTTP/1.1**Host: localhost:44444**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: Modificando :...:1
+ INFO: Modificado:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44444**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44444/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: localhost:44444**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: Modificando :...:3
+ INFO: Modificado:archivephp.php:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 117
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:44444**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:44444/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: nweb starting:44444:8320
+ERROR: system call:bind Errno=98 exiting pid=8320
+ INFO: nweb starting:51000:8323
+ INFO: request:GET / HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: Modificando :...:1
+ INFO: Modificado:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 249
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:51000**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:51000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: request:GET / HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: Modificando :...:3
+ INFO: Modificado:archivephp.php:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 215
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:51000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: SEND:favicon.ico:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:4
+ INFO: request:GET / HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: Modificando :...:5
+ INFO: Modificado:archivephp.php:5
+ INFO: SEND:archivephp.html:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 176
+Connection: close
+Content-Type: text/html
+
+:5
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:51000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+ INFO: SEND:favicon.ico:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:6
+ INFO: request:GET / HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modificar :0:7
+ INFO: Modificando :...:7
+ INFO: Modificado:archivephp.php:7
+ INFO: SEND:archivephp.html:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 211
+Connection: close
+Content-Type: text/html
+
+:7
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:51000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modificar :0:8
+ INFO: SEND:favicon.ico:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modificar :0:9
+ INFO: Modificando :...:9
+ INFO: Modificado:archivephp.php:9
+ INFO: SEND:archivephp.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:51000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:51000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modificar :0:10
+ INFO: SEND:favicon.ico:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:10
+ INFO: nweb starting:31000:10553
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modificar :0:1
+ INFO: Modificando :...:1
+ INFO: Modificado:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modificar :0:2
+ INFO: SEND:favicon.ico:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:2
+ INFO: nweb starting:21000:12149
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modificar :0:3
+ INFO: Modificando :...:3
+ INFO: Modificado:archivephp.php:3
+ INFO: SEND:archivephp.html:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:3
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modificar :0:4
+ INFO: Modificando :...:4
+ INFO: Modificado:archivephp.php:4
+ INFO: SEND:archivephp.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modificar :0:5
+ INFO: SEND:favicon.ico:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:5
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modificar :0:6
+ INFO: Modificando :...:6
+ INFO: Modificado:archivephp.php:6
+ INFO: SEND:archivephp.html:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:6
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modificar :0:7
+ INFO: SEND:favicon.ico:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:7
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modificar :0:8
+ INFO: Modificando :...:8
+ INFO: Modificado:archivephp.php:8
+ INFO: SEND:archivephp.html:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modificar :0:9
+ INFO: Modificando :...:9
+ INFO: Modificado:archivephp.php:9
+ INFO: SEND:archivephp.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 200
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modificar :0:10
+ INFO: SEND:favicon.ico:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:10
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:11
+ INFO: Modificar :0:11
+ INFO: Modificando :...:11
+ INFO: Modificado:archivephp.php:11
+ INFO: SEND:archivephp.html:11
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 182
+Connection: close
+Content-Type: text/html
+
+:11
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:12
+ INFO: Modificar :0:12
+ INFO: SEND:favicon.ico:12
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:12
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:13
+ INFO: Modificar :0:13
+ INFO: Modificando :...:13
+ INFO: Modificado:archivephp.php:13
+ INFO: SEND:archivephp.html:13
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 178
+Connection: close
+Content-Type: text/html
+
+:13
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:14
+ INFO: Modificar :0:14
+ INFO: SEND:favicon.ico:14
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:14
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:15
+ INFO: Modificar :0:15
+ INFO: Modificando :...:15
+ INFO: Modificado:archivephp.php:15
+ INFO: SEND:archivephp.html:15
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:15
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:16
+ INFO: Modificar :0:16
+ INFO: SEND:favicon.ico:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:16
+ INFO: request:GET / HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:17
+ INFO: Modificar :0:17
+ INFO: Modificando :...:17
+ INFO: Modificado:archivephp.php:17
+ INFO: SEND:archivephp.html:17
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:17
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:31000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:31000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:18
+ INFO: Modificar :0:18
+ INFO: SEND:favicon.ico:18
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:18
+ INFO: nweb starting:35000:12573
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:1
+ INFO: Modify :0:1
+ INFO: Modifying :...:1
+ INFO: Modifyed:archivephp.php:1
+ INFO: SEND:archivephp.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:2
+ INFO: Modify :0:2
+ INFO: Modifying :...:2
+ INFO: Modifyed:archivephp.php:2
+ INFO: SEND:archivephp.html:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:35000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:3
+ INFO: Modify :0:3
+ INFO: SEND:favicon.ico:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:3
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:4
+ INFO: Modify :0:4
+ INFO: Modifying :...:4
+ INFO: Modifyed:archivephp.php:4
+ INFO: SEND:archivephp.html:4
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:4
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:35000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:5
+ INFO: Modify :0:5
+ INFO: SEND:favicon.ico:5
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:5
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:6
+ INFO: Modify :0:6
+ INFO: Modifying :...:6
+ INFO: Modifyed:archivephp.php:6
+ INFO: SEND:archivephp.html:6
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:6
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:35000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:7
+ INFO: Modify :0:7
+ INFO: SEND:favicon.ico:7
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:7
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:8
+ INFO: Modify :0:8
+ INFO: Modifying :...:8
+ INFO: Modifyed:archivephp.php:8
+ INFO: SEND:archivephp.html:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:8
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:9
+ INFO: Modify :0:9
+ INFO: Modifying :...:9
+ INFO: Modifyed:archivephp.php:9
+ INFO: SEND:archivephp.html:9
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:9
+ INFO: request:GET / HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9**Sec-Fetch-Site: none**Sec-Fetch-Mode: navigate**Sec-Fetch-User: ?1**Sec-Fetch-Dest: document**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:10
+ INFO: Modify :0:10
+ INFO: Modifying :...:10
+ INFO: Modifyed:archivephp.php:10
+ INFO: SEND:archivephp.html:10
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 179
+Connection: close
+Content-Type: text/html
+
+:10
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:35000**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36**Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8**Sec-Fetch-Site: same-origin**Sec-Fetch-Mode: no-cors**Sec-Fetch-Dest: image**Referer: http://localhost:35000/**Accept-Encoding: gzip, deflate, br**Accept-Language: en-US,en;q=0.9****:11
+ INFO: Modify :0:11
+ INFO: SEND:favicon.ico:11
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:11
