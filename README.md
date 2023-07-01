@@ -1,4 +1,4 @@
-Running TinyWebServer:
+Running TinyWebServer in linux:
 
 1- enter the folder with cd TinyWebServerPHP/
 
