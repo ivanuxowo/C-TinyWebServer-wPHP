@@ -7,12 +7,21 @@ After modification it can be compiled with the following command:
 ```
 gcc nweb23.c -o nweb23php
 ```
+The php code doesn't need compilation.
 
-The php code doesn't need compilation
+## Requirements
+
+For ubuntu 22.04: 
+ * PHP: `sudo apt install php-cli`
+ * GCC: `sudo apt install build-essential`
+
+For other linux distributions install php 8.1 and gcc 11.3.0  (tested with those versions).
 
 ## Quick Start
 
 Running TinyWebServer in linux console:
+
+NOTE: It is recomended to compile it for 64 bits systems.
 
 1- enter the folder with `cd TinyWebServerPHP/`
 
