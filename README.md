@@ -1,3 +1,5 @@
+This is an academic project for a tecnical high school course: Operative systems.
+The new code is released under the GNU GENERAL PUBLIC LICENSE Version 3
 
 # TinyWebServer
 
