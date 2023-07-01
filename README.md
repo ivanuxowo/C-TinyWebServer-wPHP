@@ -1,6 +1,3 @@
-This is an academic project for a tecnical high school course: Operative systems.
-The new code is released under the GNU GENERAL PUBLIC LICENSE Version 3
-
 # TinyWebServer
 
 This program is a web server that allows running php program from C.
@@ -34,4 +31,6 @@ first parameter is the port and second is the directory
 3- see the web server by searching http://localhost:35000 in a browser ("localhost:PORT") 
 
 
+This is an academic project for a tecnical high school course: Operative systems.
 
+The new code is released under the GNU GENERAL PUBLIC LICENSE Version 3
